@@ -1,0 +1,11 @@
+CompileFlags:
+  Add: [
+    "-std=c++23",
+    "-Iinclude",
+    "-Isrc",
+    "-Wall"
+  ]
+  CompilationDatabase: build
+
+Index:
+  Background: Build

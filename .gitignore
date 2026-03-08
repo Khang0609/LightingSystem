@@ -1,0 +1,49 @@
+# Build directories
+build/
+build_ninja/
+bin/
+out/
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# IDEs and Editors
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+.clangd/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# Others
+.DS_Store
+Thumbs.db
